@@ -1,5 +1,5 @@
 # Computational-Physics
-Using numerical methods to solve following physics problems:
+Using numerical methods to solve following physics problems: \n
 
 Cosine function
 Decay chain for two species of nuclei
