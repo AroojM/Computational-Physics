@@ -29,4 +29,4 @@ Random walk in a vertical column
 
 First-order phase transitions in Ising model
 
-Variational method of quantum mechanics
+Variational method in quantum mechanics
